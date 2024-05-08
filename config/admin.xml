@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <group>
+    <group-name>Administrador</group-name>
+    <item>
+      <item-name>login</item-name>
+      <item-param>admin</item-param>
+    </item>
+    <item>
+      <item-name>senha</item-name>
+      <item-param>md5:034b5d7cb2fa400bcd213821373c7642</item-param>
+    </item>
+  </group>
+</config>
